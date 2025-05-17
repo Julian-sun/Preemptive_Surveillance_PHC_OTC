@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "preemptive-surveillance-phc-otc"
+version = "0.1.0"
+description = ""
+authors = ["Juliane F. Oliveira <juliane.oliveira@fiocruz.br>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
