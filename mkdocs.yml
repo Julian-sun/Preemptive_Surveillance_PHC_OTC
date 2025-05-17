@@ -1,0 +1,14 @@
+site_name: Modelling OTC and PHC encounters data for early epidemic detection
+repo_url: https://github.com/Julian-sun/Preemptive_Surveillance_PHC_OTC.git
+repo_name: Julian-sun/Preemptive_Surveillance_PHC_OTC
+edit_uri: tree/main/docs
+theme:
+  name: material 
+  logo: assets/aesop_logo4.png
+  favicon: assets/aesop_logo3.png
+
+markdown_extensions:
+  - attr_list
+
+extra_css:
+  - stylesheets/extra.css
