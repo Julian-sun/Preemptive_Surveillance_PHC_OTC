@@ -1,0 +1,511 @@
+,Nome_UF,UF,co_imed,Uf,pop,region,pop_cat
+0,Acre,12,120001,AC,456792,North,Large
+1,Acre,12,120002,AC,71100,North,Small
+2,Acre,12,120003,AC,60068,North,Small
+3,Acre,12,120004,AC,153954,North,Medium
+4,Acre,12,120005,AC,88112,North,Small
+5,Alagoas,27,270001,AL,1264680,Northeast,Large
+6,Alagoas,27,270002,AL,193725,Northeast,Medium
+7,Alagoas,27,270003,AL,176927,Northeast,Medium
+8,Alagoas,27,270004,AL,135038,Northeast,Medium
+9,Alagoas,27,270005,AL,139937,Northeast,Medium
+10,Alagoas,27,270006,AL,104456,Northeast,Small
+11,Alagoas,27,270007,AL,546189,Northeast,Large
+12,Alagoas,27,270008,AL,166397,Northeast,Medium
+13,Alagoas,27,270009,AL,148869,Northeast,Medium
+14,Alagoas,27,270010,AL,137195,Northeast,Medium
+15,Alagoas,27,270011,AL,114098,Northeast,Small
+16,Amapá,16,160001,AP,577823,North,Large
+17,Amapá,16,160002,AP,46405,North,Small
+18,Amapá,16,160003,AP,67246,North,Small
+19,Amapá,16,160004,AP,42034,North,Small
+20,Amazonas,13,130001,AM,2349381,North,Large
+21,Amazonas,13,130002,AM,84790,North,Small
+22,Amazonas,13,130003,AM,131957,North,Medium
+23,Amazonas,13,130004,AM,141079,North,Medium
+24,Amazonas,13,130005,AM,218871,North,Medium
+25,Amazonas,13,130006,AM,210970,North,Medium
+26,Amazonas,13,130007,AM,99419,North,Small
+27,Amazonas,13,130008,AM,136736,North,Medium
+28,Amazonas,13,130009,AM,155851,North,Medium
+29,Amazonas,13,130010,AM,232561,North,Medium
+30,Amazonas,13,130011,AM,179560,North,Medium
+31,Bahia,29,290001,BA,3483472,Northeast,Large
+32,Bahia,29,290002,BA,463982,Northeast,Large
+33,Bahia,29,290003,BA,284380,Northeast,Medium
+34,Bahia,29,290004,BA,271424,Northeast,Medium
+35,Bahia,29,290005,BA,226727,Northeast,Medium
+36,Bahia,29,290006,BA,166597,Northeast,Medium
+37,Bahia,29,290007,BA,643183,Northeast,Large
+38,Bahia,29,290008,BA,430835,Northeast,Large
+39,Bahia,29,290009,BA,393705,Northeast,Large
+40,Bahia,29,290010,BA,126154,Northeast,Medium
+41,Bahia,29,290011,BA,867721,Northeast,Large
+42,Bahia,29,290012,BA,345332,Northeast,Large
+43,Bahia,29,290013,BA,227066,Northeast,Medium
+44,Bahia,29,290014,BA,209569,Northeast,Medium
+45,Bahia,29,290015,BA,140170,Northeast,Medium
+46,Bahia,29,290016,BA,463740,Northeast,Large
+47,Bahia,29,290017,BA,217476,Northeast,Medium
+48,Bahia,29,290018,BA,523042,Northeast,Large
+49,Bahia,29,290019,BA,138895,Northeast,Medium
+50,Bahia,29,290020,BA,397535,Northeast,Large
+51,Bahia,29,290021,BA,213471,Northeast,Medium
+52,Bahia,29,290022,BA,536993,Northeast,Large
+53,Bahia,29,290023,BA,293234,Northeast,Medium
+54,Bahia,29,290024,BA,189141,Northeast,Medium
+55,Bahia,29,290025,BA,192646,Northeast,Medium
+56,Bahia,29,290026,BA,188052,Northeast,Medium
+57,Bahia,29,290027,BA,116121,Northeast,Small
+58,Bahia,29,290028,BA,94069,Northeast,Small
+59,Bahia,29,290029,BA,1213245,Northeast,Large
+60,Bahia,29,290030,BA,310892,Northeast,Medium
+61,Bahia,29,290031,BA,211224,Northeast,Medium
+62,Bahia,29,290032,BA,196478,Northeast,Medium
+63,Bahia,29,290033,BA,179995,Northeast,Medium
+64,Bahia,29,290034,BA,179851,Northeast,Medium
+65,Ceará,23,230001,CE,3908886,Northeast,Large
+66,Ceará,23,230002,CE,298961,Northeast,Medium
+67,Ceará,23,230003,CE,222624,Northeast,Medium
+68,Ceará,23,230004,CE,188666,Northeast,Medium
+69,Ceará,23,230005,CE,144935,Northeast,Medium
+70,Ceará,23,230006,CE,324725,Northeast,Medium
+71,Ceará,23,230007,CE,377628,Northeast,Large
+72,Ceará,23,230008,CE,153076,Northeast,Medium
+73,Ceará,23,230009,CE,300665,Northeast,Medium
+74,Ceará,23,230010,CE,106955,Northeast,Small
+75,Ceará,23,230011,CE,859380,Northeast,Large
+76,Ceará,23,230012,CE,185853,Northeast,Medium
+77,Ceará,23,230013,CE,255571,Northeast,Medium
+78,Ceará,23,230014,CE,100097,Northeast,Small
+79,Ceará,23,230015,CE,588859,Northeast,Large
+80,Ceará,23,230016,CE,410819,Northeast,Large
+81,Ceará,23,230017,CE,221289,Northeast,Medium
+82,Ceará,23,230018,CE,142699,Northeast,Medium
+83,Distrito Federal,53,530001,DF,2817068,Center-West,Large
+84,Espírito Santo,32,320001,ES,1946963,Southeast,Large
+85,Espírito Santo,32,320002,ES,231735,Southeast,Medium
+86,Espírito Santo,32,320003,ES,270047,Southeast,Medium
+87,Espírito Santo,32,320004,ES,333118,Southeast,Large
+88,Espírito Santo,32,320005,ES,301729,Southeast,Medium
+89,Espírito Santo,32,320006,ES,134508,Southeast,Medium
+90,Espírito Santo,32,320007,ES,421464,Southeast,Large
+91,Espírito Santo,32,320008,ES,193922,Southeast,Medium
+92,Goiás,52,520001,GO,2531956,Center-West,Large
+93,Goiás,52,520002,GO,626393,Center-West,Large
+94,Goiás,52,520003,GO,157371,Center-West,Medium
+95,Goiás,52,520004,GO,170340,Center-West,Medium
+96,Goiás,52,520005,GO,152956,Center-West,Medium
+97,Goiás,52,520006,GO,57586,Center-West,Small
+98,Goiás,52,520007,GO,197441,Center-West,Medium
+99,Goiás,52,520008,GO,167610,Center-West,Medium
+100,Goiás,52,520009,GO,69558,Center-West,Small
+101,Goiás,52,520010,GO,343385,Center-West,Large
+102,Goiás,52,520011,GO,236658,Center-West,Medium
+103,Goiás,52,520012,GO,83418,Center-West,Small
+104,Goiás,52,520013,GO,61900,Center-West,Small
+105,Goiás,52,520014,GO,102350,Center-West,Small
+106,Goiás,52,520015,GO,145872,Center-West,Medium
+107,Goiás,52,520016,GO,131825,Center-West,Medium
+108,Goiás,52,520017,GO,125482,Center-West,Medium
+109,Goiás,52,520018,GO,255793,Center-West,Medium
+110,Goiás,52,520019,GO,737540,Center-West,Large
+111,Goiás,52,520020,GO,516528,Center-West,Large
+112,Goiás,52,520021,GO,123781,Center-West,Medium
+113,Goiás,52,520022,GO,59485,Center-West,Small
+114,Maranhão,21,210001,MA,1646004,Northeast,Large
+115,Maranhão,21,210002,MA,340491,Northeast,Large
+116,Maranhão,21,210003,MA,268485,Northeast,Medium
+117,Maranhão,21,210004,MA,236873,Northeast,Medium
+118,Maranhão,21,210005,MA,244416,Northeast,Medium
+119,Maranhão,21,210006,MA,118537,Northeast,Medium
+120,Maranhão,21,210007,MA,172923,Northeast,Medium
+121,Maranhão,21,210008,MA,123093,Northeast,Medium
+122,Maranhão,21,210009,MA,403047,Northeast,Large
+123,Maranhão,21,210010,MA,382704,Northeast,Large
+124,Maranhão,21,210011,MA,197057,Northeast,Medium
+125,Maranhão,21,210012,MA,191434,Northeast,Medium
+126,Maranhão,21,210013,MA,255170,Northeast,Medium
+127,Maranhão,21,210014,MA,260344,Northeast,Medium
+128,Maranhão,21,210015,MA,220798,Northeast,Medium
+129,Maranhão,21,210016,MA,233780,Northeast,Medium
+130,Maranhão,21,210017,MA,143702,Northeast,Medium
+131,Maranhão,21,210018,MA,79045,Northeast,Small
+132,Maranhão,21,210019,MA,535016,Northeast,Large
+133,Maranhão,21,210020,MA,266277,Northeast,Medium
+134,Maranhão,21,210021,MA,222220,Northeast,Medium
+135,Maranhão,21,210022,MA,233736,Northeast,Medium
+136,Mato Grosso,51,510001,MT,1131098,Center-West,Large
+137,Mato Grosso,51,510002,MT,254274,Center-West,Medium
+138,Mato Grosso,51,510003,MT,73277,Center-West,Small
+139,Mato Grosso,51,510004,MT,107385,Center-West,Small
+140,Mato Grosso,51,510005,MT,109186,Center-West,Small
+141,Mato Grosso,51,510006,MT,88418,Center-West,Small
+142,Mato Grosso,51,510007,MT,304330,Center-West,Medium
+143,Mato Grosso,51,510008,MT,307379,Center-West,Medium
+144,Mato Grosso,51,510009,MT,128486,Center-West,Medium
+145,Mato Grosso,51,510010,MT,111154,Center-West,Small
+146,Mato Grosso,51,510011,MT,90349,Center-West,Small
+147,Mato Grosso,51,510012,MT,53660,Center-West,Small
+148,Mato Grosso,51,510013,MT,126003,Center-West,Medium
+149,Mato Grosso,51,510014,MT,122390,Center-West,Medium
+150,Mato Grosso,51,510015,MT,126140,Center-West,Medium
+151,Mato Grosso,51,510016,MT,334221,Center-West,Large
+152,Mato Grosso,51,510017,MT,138951,Center-West,Medium
+153,Mato Grosso,51,510018,MT,52112,Center-West,Small
+154,Mato Grosso do Sul,50,500001,MS,1091830,Center-West,Large
+155,Mato Grosso do Sul,50,500002,MS,198672,Center-West,Medium
+156,Mato Grosso do Sul,50,500003,MS,134526,Center-West,Medium
+157,Mato Grosso do Sul,50,500004,MS,107539,Center-West,Small
+158,Mato Grosso do Sul,50,500005,MS,454509,Center-West,Large
+159,Mato Grosso do Sul,50,500006,MS,122413,Center-West,Medium
+160,Mato Grosso do Sul,50,500007,MS,113824,Center-West,Small
+161,Mato Grosso do Sul,50,500008,MS,112068,Center-West,Small
+162,Mato Grosso do Sul,50,500009,MS,88209,Center-West,Small
+163,Mato Grosso do Sul,50,500010,MS,117790,Center-West,Medium
+164,Mato Grosso do Sul,50,500011,MS,110307,Center-West,Small
+165,Mato Grosso do Sul,50,500012,MS,105013,Center-West,Small
+166,Minas Gerais,31,310001,MG,5044666,Southeast,Large
+167,Minas Gerais,31,310002,MG,406932,Southeast,Large
+168,Minas Gerais,31,310003,MG,256210,Southeast,Medium
+169,Minas Gerais,31,310004,MG,178578,Southeast,Medium
+170,Minas Gerais,31,310005,MG,148469,Southeast,Medium
+171,Minas Gerais,31,310006,MG,740731,Southeast,Large
+172,Minas Gerais,31,310007,MG,210647,Southeast,Medium
+173,Minas Gerais,31,310008,MG,182448,Southeast,Medium
+174,Minas Gerais,31,310009,MG,143104,Southeast,Medium
+175,Minas Gerais,31,310010,MG,133939,Southeast,Medium
+176,Minas Gerais,31,310011,MG,104901,Southeast,Small
+177,Minas Gerais,31,310012,MG,91855,Southeast,Small
+178,Minas Gerais,31,310013,MG,452405,Southeast,Large
+179,Minas Gerais,31,310014,MG,161862,Southeast,Medium
+180,Minas Gerais,31,310015,MG,162373,Southeast,Medium
+181,Minas Gerais,31,310016,MG,126317,Southeast,Medium
+182,Minas Gerais,31,310017,MG,95307,Southeast,Small
+183,Minas Gerais,31,310018,MG,90907,Southeast,Small
+184,Minas Gerais,31,310019,MG,47620,Southeast,Small
+185,Minas Gerais,31,310020,MG,418291,Southeast,Large
+186,Minas Gerais,31,310021,MG,184023,Southeast,Medium
+187,Minas Gerais,31,310022,MG,60356,Southeast,Small
+188,Minas Gerais,31,310023,MG,58356,Southeast,Small
+189,Minas Gerais,31,310024,MG,597416,Southeast,Large
+190,Minas Gerais,31,310025,MG,226301,Southeast,Medium
+191,Minas Gerais,31,310026,MG,151665,Southeast,Medium
+192,Minas Gerais,31,310027,MG,711921,Southeast,Large
+193,Minas Gerais,31,310028,MG,353512,Southeast,Large
+194,Minas Gerais,31,310029,MG,267231,Southeast,Medium
+195,Minas Gerais,31,310030,MG,178512,Southeast,Medium
+196,Minas Gerais,31,310031,MG,176380,Southeast,Medium
+197,Minas Gerais,31,310032,MG,170181,Southeast,Medium
+198,Minas Gerais,31,310033,MG,166631,Southeast,Medium
+199,Minas Gerais,31,310034,MG,111663,Southeast,Small
+200,Minas Gerais,31,310035,MG,71610,Southeast,Small
+201,Minas Gerais,31,310036,MG,52192,Southeast,Small
+202,Minas Gerais,31,310037,MG,222672,Southeast,Medium
+203,Minas Gerais,31,310038,MG,347540,Southeast,Large
+204,Minas Gerais,31,310039,MG,187135,Southeast,Medium
+205,Minas Gerais,31,310040,MG,198302,Southeast,Medium
+206,Minas Gerais,31,310041,MG,258893,Southeast,Medium
+207,Minas Gerais,31,310042,MG,249805,Southeast,Medium
+208,Minas Gerais,31,310043,MG,227719,Southeast,Medium
+209,Minas Gerais,31,310044,MG,157941,Southeast,Medium
+210,Minas Gerais,31,310045,MG,126897,Southeast,Medium
+211,Minas Gerais,31,310046,MG,123510,Southeast,Medium
+212,Minas Gerais,31,310047,MG,117691,Southeast,Small
+213,Minas Gerais,31,310048,MG,87046,Southeast,Small
+214,Minas Gerais,31,310049,MG,57190,Southeast,Small
+215,Minas Gerais,31,310050,MG,579323,Southeast,Large
+216,Minas Gerais,31,310051,MG,271799,Southeast,Medium
+217,Minas Gerais,31,310052,MG,199392,Southeast,Medium
+218,Minas Gerais,31,310053,MG,184385,Southeast,Medium
+219,Minas Gerais,31,310054,MG,72989,Southeast,Small
+220,Minas Gerais,31,310055,MG,454402,Southeast,Large
+221,Minas Gerais,31,310056,MG,178453,Southeast,Medium
+222,Minas Gerais,31,310057,MG,106266,Southeast,Small
+223,Minas Gerais,31,310058,MG,65964,Southeast,Small
+224,Minas Gerais,31,310059,MG,961210,Southeast,Large
+225,Minas Gerais,31,310060,MG,149127,Southeast,Medium
+226,Minas Gerais,31,310061,MG,74588,Southeast,Small
+227,Minas Gerais,31,310062,MG,507981,Southeast,Large
+228,Minas Gerais,31,310063,MG,182870,Southeast,Medium
+229,Minas Gerais,31,310064,MG,142520,Southeast,Medium
+230,Minas Gerais,31,310065,MG,700435,Southeast,Large
+231,Minas Gerais,31,310066,MG,171425,Southeast,Medium
+232,Minas Gerais,31,310067,MG,141624,Southeast,Medium
+233,Minas Gerais,31,310068,MG,140882,Southeast,Medium
+234,Minas Gerais,31,310069,MG,115801,Southeast,Small
+235,Minas Gerais,31,310070,MG,39429,Southeast,Small
+236,Paraná,41,410001,PR,3559366,South,Large
+237,Paraná,41,410002,PR,301405,South,Medium
+238,Paraná,41,410003,PR,162553,South,Medium
+239,Paraná,41,410004,PR,341016,South,Large
+240,Paraná,41,410005,PR,78627,South,Small
+241,Paraná,41,410006,PR,548026,South,Large
+242,Paraná,41,410007,PR,420724,South,Large
+243,Paraná,41,410008,PR,349552,South,Large
+244,Paraná,41,410009,PR,294099,South,Medium
+245,Paraná,41,410010,PR,279813,South,Medium
+246,Paraná,41,410011,PR,105190,South,Small
+247,Paraná,41,410012,PR,88757,South,Small
+248,Paraná,41,410013,PR,84877,South,Small
+249,Paraná,41,410014,PR,811915,South,Large
+250,Paraná,41,410015,PR,324363,South,Medium
+251,Paraná,41,410016,PR,301447,South,Medium
+252,Paraná,41,410017,PR,201319,South,Medium
+253,Paraná,41,410018,PR,159971,South,Medium
+254,Paraná,41,410019,PR,63904,South,Small
+255,Paraná,41,410020,PR,60634,South,Small
+256,Paraná,41,410021,PR,1071799,South,Large
+257,Paraná,41,410022,PR,275390,South,Medium
+258,Paraná,41,410023,PR,226381,South,Medium
+259,Paraná,41,410024,PR,174220,South,Medium
+260,Paraná,41,410025,PR,136673,South,Medium
+261,Paraná,41,410026,PR,57318,South,Small
+262,Paraná,41,410027,PR,635581,South,Large
+263,Paraná,41,410028,PR,181345,South,Medium
+264,Paraná,41,410029,PR,146943,South,Medium
+265,Paraíba,25,250001,PB,1428429,Northeast,Large
+266,Paraíba,25,250002,PB,304632,Northeast,Medium
+267,Paraíba,25,250003,PB,146321,Northeast,Medium
+268,Paraíba,25,250004,PB,63422,Northeast,Small
+269,Paraíba,25,250005,PB,938502,Northeast,Large
+270,Paraíba,25,250006,PB,87733,Northeast,Small
+271,Paraíba,25,250007,PB,54965,Northeast,Small
+272,Paraíba,25,250008,PB,51779,Northeast,Small
+273,Paraíba,25,250009,PB,254580,Northeast,Medium
+274,Paraíba,25,250010,PB,118087,Northeast,Medium
+275,Paraíba,25,250011,PB,113431,Northeast,Small
+276,Paraíba,25,250012,PB,64835,Northeast,Small
+277,Paraíba,25,250013,PB,58299,Northeast,Small
+278,Paraíba,25,250014,PB,138166,Northeast,Medium
+279,Paraíba,25,250015,PB,151314,Northeast,Medium
+280,Pará,15,150001,PA,2460788,North,Large
+281,Pará,15,150002,PA,224795,North,Medium
+282,Pará,15,150003,PA,378551,North,Large
+283,Pará,15,150004,PA,507921,North,Large
+284,Pará,15,150005,PA,294942,North,Medium
+285,Pará,15,150006,PA,197885,North,Medium
+286,Pará,15,150007,PA,290308,North,Medium
+287,Pará,15,150008,PA,119368,North,Medium
+288,Pará,15,150009,PA,531440,North,Large
+289,Pará,15,150010,PA,391645,North,Large
+290,Pará,15,150011,PA,316768,North,Medium
+291,Pará,15,150012,PA,222071,North,Medium
+292,Pará,15,150013,PA,137435,North,Medium
+293,Pará,15,150014,PA,95204,North,Small
+294,Pará,15,150015,PA,538507,North,Large
+295,Pará,15,150016,PA,268961,North,Medium
+296,Pará,15,150017,PA,213031,North,Medium
+297,Pará,15,150018,PA,291657,North,Medium
+298,Pará,15,150019,PA,74877,North,Small
+299,Pará,15,150020,PA,409867,North,Large
+300,Pará,15,150021,PA,150111,North,Medium
+301,Pernambuco,26,260001,PE,3786268,Northeast,Large
+302,Pernambuco,26,260002,PE,328697,Northeast,Large
+303,Pernambuco,26,260003,PE,199392,Northeast,Medium
+304,Pernambuco,26,260004,PE,210499,Northeast,Medium
+305,Pernambuco,26,260005,PE,203989,Northeast,Medium
+306,Pernambuco,26,260006,PE,173600,Northeast,Medium
+307,Pernambuco,26,260007,PE,140112,Northeast,Medium
+308,Pernambuco,26,260008,PE,134253,Northeast,Medium
+309,Pernambuco,26,260009,PE,1079257,Northeast,Large
+310,Pernambuco,26,260010,PE,537872,Northeast,Large
+311,Pernambuco,26,260011,PE,375786,Northeast,Large
+312,Pernambuco,26,260012,PE,248081,Northeast,Medium
+313,Pernambuco,26,260013,PE,318782,Northeast,Medium
+314,Pernambuco,26,260014,PE,184941,Northeast,Medium
+315,Pernambuco,26,260015,PE,500927,Northeast,Large
+316,Pernambuco,26,260016,PE,319438,Northeast,Medium
+317,Pernambuco,26,260017,PE,180677,Northeast,Medium
+318,Pernambuco,26,260018,PE,135584,Northeast,Medium
+319,Piauí,22,220001,PI,1122495,Northeast,Large
+320,Piauí,22,220002,PI,153750,Northeast,Medium
+321,Piauí,22,220003,PI,139487,Northeast,Medium
+322,Piauí,22,220004,PI,81416,Northeast,Small
+323,Piauí,22,220005,PI,93048,Northeast,Small
+324,Piauí,22,220006,PI,290049,Northeast,Medium
+325,Piauí,22,220007,PI,178644,Northeast,Medium
+326,Piauí,22,220008,PI,145209,Northeast,Medium
+327,Piauí,22,220009,PI,286041,Northeast,Medium
+328,Piauí,22,220010,PI,77927,Northeast,Small
+329,Piauí,22,220011,PI,68417,Northeast,Small
+330,Piauí,22,220012,PI,41647,Northeast,Small
+331,Piauí,22,220013,PI,112843,Northeast,Small
+332,Piauí,22,220014,PI,48565,Northeast,Small
+333,Piauí,22,220015,PI,117789,Northeast,Small
+334,Piauí,22,220016,PI,74300,Northeast,Small
+335,Piauí,22,220017,PI,127127,Northeast,Medium
+336,Piauí,22,220018,PI,63008,Northeast,Small
+337,Piauí,22,220019,PI,47438,Northeast,Small
+338,Rio Grande do Norte,24,240001,RN,1607430,Northeast,Large
+339,Rio Grande do Norte,24,240002,RN,134394,Northeast,Medium
+340,Rio Grande do Norte,24,240003,RN,134466,Northeast,Medium
+341,Rio Grande do Norte,24,240004,RN,92110,Northeast,Small
+342,Rio Grande do Norte,24,240005,RN,71092,Northeast,Small
+343,Rio Grande do Norte,24,240006,RN,63762,Northeast,Small
+344,Rio Grande do Norte,24,240007,RN,173030,Northeast,Medium
+345,Rio Grande do Norte,24,240008,RN,111181,Northeast,Small
+346,Rio Grande do Norte,24,240009,RN,464894,Northeast,Large
+347,Rio Grande do Norte,24,240010,RN,227367,Northeast,Medium
+348,Rio Grande do Norte,24,240011,RN,222680,Northeast,Medium
+349,Rio Grande do Sul,43,430001,RS,2997328,South,Large
+350,Rio Grande do Sul,43,430002,RS,837162,South,Large
+351,Rio Grande do Sul,43,430003,RS,261036,South,Medium
+352,Rio Grande do Sul,43,430004,RS,188259,South,Medium
+353,Rio Grande do Sul,43,430005,RS,125712,South,Medium
+354,Rio Grande do Sul,43,430006,RS,117739,South,Small
+355,Rio Grande do Sul,43,430007,RS,88091,South,Small
+356,Rio Grande do Sul,43,430008,RS,75294,South,Small
+357,Rio Grande do Sul,43,430009,RS,791643,South,Large
+358,Rio Grande do Sul,43,430010,RS,189050,South,Medium
+359,Rio Grande do Sul,43,430011,RS,461704,South,Large
+360,Rio Grande do Sul,43,430012,RS,111642,South,Small
+361,Rio Grande do Sul,43,430013,RS,93959,South,Small
+362,Rio Grande do Sul,43,430014,RS,61912,South,Small
+363,Rio Grande do Sul,43,430015,RS,200661,South,Medium
+364,Rio Grande do Sul,43,430016,RS,144551,South,Medium
+365,Rio Grande do Sul,43,430017,RS,99869,South,Small
+366,Rio Grande do Sul,43,430018,RS,203771,South,Medium
+367,Rio Grande do Sul,43,430019,RS,138420,South,Medium
+368,Rio Grande do Sul,43,430020,RS,124282,South,Medium
+369,Rio Grande do Sul,43,430021,RS,107239,South,Small
+370,Rio Grande do Sul,43,430022,RS,70510,South,Small
+371,Rio Grande do Sul,43,430023,RS,70748,South,Small
+372,Rio Grande do Sul,43,430024,RS,45801,South,Small
+373,Rio Grande do Sul,43,430025,RS,278703,South,Medium
+374,Rio Grande do Sul,43,430026,RS,213965,South,Medium
+375,Rio Grande do Sul,43,430027,RS,138860,South,Medium
+376,Rio Grande do Sul,43,430028,RS,147053,South,Medium
+377,Rio Grande do Sul,43,430029,RS,119099,South,Medium
+378,Rio Grande do Sul,43,430030,RS,83927,South,Small
+379,Rio Grande do Sul,43,430031,RS,69477,South,Small
+380,Rio Grande do Sul,43,430032,RS,70546,South,Small
+381,Rio Grande do Sul,43,430033,RS,62545,South,Small
+382,Rio Grande do Sul,43,430034,RS,51157,South,Small
+383,Rio Grande do Sul,43,430035,RS,43647,South,Small
+384,Rio Grande do Sul,43,430036,RS,781311,South,Large
+385,Rio Grande do Sul,43,430037,RS,241822,South,Medium
+386,Rio Grande do Sul,43,430038,RS,104563,South,Small
+387,Rio Grande do Sul,43,430039,RS,94753,South,Small
+388,Rio Grande do Sul,43,430040,RS,364243,South,Large
+389,Rio Grande do Sul,43,430041,RS,293714,South,Medium
+390,Rio Grande do Sul,43,430042,RS,54350,South,Small
+391,Rio Grande do Sul,43,430043,RS,60388,South,Small
+392,Rio de Janeiro,33,330001,RJ,11760789,Southeast,Large
+393,Rio de Janeiro,33,330002,RJ,212290,Southeast,Medium
+394,Rio de Janeiro,33,330003,RJ,134571,Southeast,Medium
+395,Rio de Janeiro,33,330004,RJ,623283,Southeast,Large
+396,Rio de Janeiro,33,330005,RJ,194575,Southeast,Medium
+397,Rio de Janeiro,33,330006,RJ,166880,Southeast,Medium
+398,Rio de Janeiro,33,330007,RJ,477912,Southeast,Large
+399,Rio de Janeiro,33,330008,RJ,335295,Southeast,Large
+400,Rio de Janeiro,33,330009,RJ,146879,Southeast,Medium
+401,Rio de Janeiro,33,330010,RJ,631153,Southeast,Large
+402,Rio de Janeiro,33,330011,RJ,193189,Southeast,Medium
+403,Rio de Janeiro,33,330012,RJ,116775,Southeast,Small
+404,Rio de Janeiro,33,330013,RJ,554597,Southeast,Large
+405,Rio de Janeiro,33,330014,RJ,506336,Southeast,Large
+406,Rondônia,11,110001,RO,556022,North,Large
+407,Rondônia,11,110002,RO,184021,North,Medium
+408,Rondônia,11,110003,RO,105200,North,Small
+409,Rondônia,11,110004,RO,290435,North,Medium
+410,Rondônia,11,110005,RO,293591,North,Medium
+411,Rondônia,11,110006,RO,151747,North,Medium
+412,Roraima,14,140001,RR,485195,North,Large
+413,Roraima,14,140002,RR,60652,North,Small
+414,Roraima,14,140003,RR,59476,North,Small
+415,Roraima,14,140004,RR,30980,North,Small
+416,Santa Catarina,42,420001,SC,1292072,South,Large
+417,Santa Catarina,42,420002,SC,449755,South,Large
+418,Santa Catarina,42,420003,SC,328951,South,Large
+419,Santa Catarina,42,420004,SC,219172,South,Medium
+420,Santa Catarina,42,420005,SC,295210,South,Medium
+421,Santa Catarina,42,420006,SC,69785,South,Small
+422,Santa Catarina,42,420007,SC,458097,South,Large
+423,Santa Catarina,42,420008,SC,182051,South,Medium
+424,Santa Catarina,42,420009,SC,172122,South,Medium
+425,Santa Catarina,42,420010,SC,151155,South,Medium
+426,Santa Catarina,42,420011,SC,129313,South,Medium
+427,Santa Catarina,42,420012,SC,55695,South,Small
+428,Santa Catarina,42,420013,SC,45507,South,Small
+429,Santa Catarina,42,420014,SC,100516,South,Small
+430,Santa Catarina,42,420015,SC,128764,South,Medium
+431,Santa Catarina,42,420016,SC,1064486,South,Large
+432,Santa Catarina,42,420017,SC,235537,South,Medium
+433,Santa Catarina,42,420018,SC,135034,South,Medium
+434,Santa Catarina,42,420019,SC,658697,South,Large
+435,Santa Catarina,42,420020,SC,890807,South,Large
+436,Santa Catarina,42,420021,SC,233740,South,Medium
+437,Santa Catarina,42,420022,SC,201740,South,Medium
+438,Santa Catarina,42,420023,SC,59703,South,Small
+439,Santa Catarina,42,420024,SC,51692,South,Small
+440,Sergipe,28,280001,SE,1152601,Northeast,Large
+441,Sergipe,28,280002,SE,231302,Northeast,Medium
+442,Sergipe,28,280003,SE,148130,Northeast,Medium
+443,Sergipe,28,280004,SE,252040,Northeast,Medium
+444,Sergipe,28,280005,SE,255448,Northeast,Medium
+445,Sergipe,28,280006,SE,170037,Northeast,Medium
+446,São Paulo,35,350001,SP,20743587,Southeast,Large
+447,São Paulo,35,350002,SP,1832260,Southeast,Large
+448,São Paulo,35,350003,SP,1834749,Southeast,Large
+449,São Paulo,35,350004,SP,344633,Southeast,Large
+450,São Paulo,35,350005,SP,251060,Southeast,Medium
+451,São Paulo,35,350006,SP,240959,Southeast,Medium
+452,São Paulo,35,350007,SP,234600,Southeast,Medium
+453,São Paulo,35,350008,SP,167551,Southeast,Medium
+454,São Paulo,35,350009,SP,649862,Southeast,Large
+455,São Paulo,35,350010,SP,324768,Southeast,Medium
+456,São Paulo,35,350011,SP,255289,Southeast,Medium
+457,São Paulo,35,350012,SP,154124,Southeast,Medium
+458,São Paulo,35,350013,SP,380836,Southeast,Large
+459,São Paulo,35,350014,SP,234362,Southeast,Medium
+460,São Paulo,35,350015,SP,225708,Southeast,Medium
+461,São Paulo,35,350016,SP,125835,Southeast,Medium
+462,São Paulo,35,350017,SP,56372,Southeast,Small
+463,São Paulo,35,350018,SP,525761,Southeast,Large
+464,São Paulo,35,350019,SP,130843,Southeast,Medium
+465,São Paulo,35,350020,SP,131475,Southeast,Medium
+466,São Paulo,35,350021,SP,88009,Southeast,Small
+467,São Paulo,35,350022,SP,309589,Southeast,Medium
+468,São Paulo,35,350023,SP,273714,Southeast,Medium
+469,São Paulo,35,350024,SP,194197,Southeast,Medium
+470,São Paulo,35,350025,SP,940567,Southeast,Large
+471,São Paulo,35,350026,SP,241112,Southeast,Medium
+472,São Paulo,35,350027,SP,171884,Southeast,Medium
+473,São Paulo,35,350028,SP,109832,Southeast,Small
+474,São Paulo,35,350029,SP,115774,Southeast,Small
+475,São Paulo,35,350030,SP,54464,Southeast,Small
+476,São Paulo,35,350031,SP,1445676,Southeast,Large
+477,São Paulo,35,350032,SP,416915,Southeast,Large
+478,São Paulo,35,350033,SP,424151,Southeast,Large
+479,São Paulo,35,350034,SP,148066,Southeast,Medium
+480,São Paulo,35,350035,SP,111606,Southeast,Small
+481,São Paulo,35,350036,SP,595667,Southeast,Large
+482,São Paulo,35,350037,SP,505016,Southeast,Large
+483,São Paulo,35,350038,SP,3040785,Southeast,Large
+484,São Paulo,35,350039,SP,979726,Southeast,Large
+485,São Paulo,35,350040,SP,613642,Southeast,Large
+486,São Paulo,35,350041,SP,493642,Southeast,Large
+487,São Paulo,35,350042,SP,357916,Southeast,Large
+488,São Paulo,35,350043,SP,329537,Southeast,Large
+489,São Paulo,35,350044,SP,296433,Southeast,Medium
+490,São Paulo,35,350045,SP,261393,Southeast,Medium
+491,São Paulo,35,350046,SP,240644,Southeast,Medium
+492,São Paulo,35,350047,SP,178447,Southeast,Medium
+493,São Paulo,35,350048,SP,131368,Southeast,Medium
+494,São Paulo,35,350049,SP,1086687,Southeast,Large
+495,São Paulo,35,350050,SP,620044,Southeast,Large
+496,São Paulo,35,350051,SP,344329,Southeast,Large
+497,São Paulo,35,350052,SP,306223,Southeast,Medium
+498,São Paulo,35,350053,SP,148770,Southeast,Medium
+499,Tocantins,17,170001,TO,333542,North,Large
+500,Tocantins,17,170002,TO,116976,North,Small
+501,Tocantins,17,170003,TO,120434,North,Medium
+502,Tocantins,17,170004,TO,47791,North,Small
+503,Tocantins,17,170005,TO,301108,North,Medium
+504,Tocantins,17,170006,TO,85841,North,Small
+505,Tocantins,17,170007,TO,63154,North,Small
+506,Tocantins,17,170008,TO,46684,North,Small
+507,Tocantins,17,170009,TO,133075,North,Medium
+508,Tocantins,17,170010,TO,185756,North,Medium
+509,Tocantins,17,170011,TO,77098,North,Small
