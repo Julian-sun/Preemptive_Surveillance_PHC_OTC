@@ -1,5 +1,4 @@
-# Anticipating influenza-like illness outbreaks via syndromic surveillance using over-the-counter drug sales and primary health care 
-# data
+# Anticipating influenza-like illness outbreaks via syndromic surveillance using over-the-counter drug sales and primary health care data
 
 This directory contains the codes to ensure reproducibility of the results in the manuscript titled: "**Anticipating influenza-like illness outbreaks via syndromic surveillance using over-the-counter drug sales and primary health care data**" [1]. 
 
